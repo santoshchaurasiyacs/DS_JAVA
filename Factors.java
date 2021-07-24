@@ -10,6 +10,7 @@ public class Factors {
         div = div+1;   
         }
         // System.out.println(div);
+        System.out.println("push it in github");
         
     }
 }
